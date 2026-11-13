@@ -1,0 +1,10 @@
+{
+  "name": "phish-eth",
+  "pages": {
+    "dispatchNamespaces": {
+      "default": { "bindings": [], "outbound": {} }
+    },
+    "outputDir": "."
+  },
+  "compatibility_date": "2024-01-01"
+}
